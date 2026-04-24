@@ -1,4 +1,3 @@
-# React + Vite
 
 # 💰 Personal Loan EMI Calculator
 
